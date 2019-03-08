@@ -12,6 +12,7 @@ namespace RSOKLab03
         {
 
             Console.WriteLine("Luka Petrovic");
+            Console.WriteLine("test");
             Console.ReadLine();      
         }
     }
